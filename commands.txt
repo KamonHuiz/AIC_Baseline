@@ -1,0 +1,3 @@
+Tải python 3.11.9 
+Tải venv
+.\.venv\Scripts\activate
